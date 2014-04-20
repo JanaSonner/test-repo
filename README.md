@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Test respiratory for The Data Scientist's Toolbox
+Test repo for The Data Scientist's Toolbox
